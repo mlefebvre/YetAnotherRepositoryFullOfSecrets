@@ -1,0 +1,10 @@
+{
+    "stripe": {
+        "keys": [
+            "sk_live_xf2fh0Hu3LqXlqqUg2DEWhEz"
+        ],
+        "restricted": [
+            "rk_live_xf2fh0Hu3LqXlqqUg2DEWhEz"
+        ]
+    }
+}

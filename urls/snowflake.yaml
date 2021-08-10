@@ -1,0 +1,1 @@
+connection_string: db:snowflake://USERNAME:PASSWORD@uba44969.snowflakecomputing.com/flipr?Driver=Snowflake;warehouse=demo_wh

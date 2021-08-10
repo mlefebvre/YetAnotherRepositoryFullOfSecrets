@@ -1,0 +1,3 @@
+GET / HTTP/1.1
+Host: mathgl.com
+Authorization: Basic Z2VudHU6bG93bGx3bHc=

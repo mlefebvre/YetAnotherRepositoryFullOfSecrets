@@ -1,0 +1,12 @@
+[client]
+#password   = your_password
+port        = 3306
+socket      = /tmp/mysql.sock
+
+[bob]
+user=bob
+password="bobisawesome123"
+
+#[bob2]
+#user=bob2
+#password="bob2isawesome123"

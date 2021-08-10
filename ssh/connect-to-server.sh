@@ -1,0 +1,1 @@
+sshpass -p "S3cureP@5sw0rd!" ssh username@host.example.com

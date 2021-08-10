@@ -1,0 +1,1 @@
+const ALGOLIA_ADMIN_KEY = "9b5fdb3ac9aa85aeb6ab5b023d0c4e85"; 
